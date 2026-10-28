@@ -1,7 +1,7 @@
 ﻿/*console.Clear();
-Console.Write("tul mostatill:");
+Console.Write("tul mostatill: ");
 var number1=Convert.ToDouble(Console.ReadLine());
-Console.Write("arz mostatill:");
+Console.Write("arz mostatill: ");
 var number2=Convert.ToDouble(Console.ReadLine());
 Console.Write("mohit= ");
 Console.WriteLine((number1+number2)*2); 
@@ -18,5 +18,18 @@ Console.Write("mohit= ");
 Console.WriteLine(2*3.14*number);
 Console.Write("masahat= ");
 Console.WriteLine(3.14*number*number);*/
+
+
+
+
+/*Console.Clear();
+Console.Write("number(1/3): ");
+var number1=Convert.ToDouble(Console.ReadLine());
+Console.Write("number(2/3): ");
+var number2=Convert.ToDouble(Console.ReadLine());
+Console.Write("number(3/3): ");
+var number3=Convert.ToDouble(Console.ReadLine());
+Console.Write("miangin= ");
+Console.WriteLine((number1+number2+number3)/3);*/
 
 
